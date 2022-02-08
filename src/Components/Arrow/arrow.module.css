@@ -1,0 +1,25 @@
+.flex{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.arrow{
+    /* width: 20px; */
+    height: 40px;
+}
+.item1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.para{
+    color: #022B69;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.item2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

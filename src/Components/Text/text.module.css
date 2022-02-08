@@ -1,0 +1,72 @@
+.lock{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #022B69;
+    /* height: 393px; */
+    width: 100%;
+    margin-top: 40px;
+
+}
+.item:last-child{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+
+.para{
+    color: white;
+    font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.p{
+    font-family: Gotham Pro;
+    color: white;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 13px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 40px;
+
+}
+.item button{
+     color: #1AD5FE;
+     background-color: #022B69;
+    font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+padding-top: 40px;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+border: none;
+cursor: pointer;
+
+}
+.item h2{
+    color: white;
+    font-family: Inter;
+font-size: 33px;
+font-style: normal;
+font-weight: 600;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: center;
+
+
+}
+.phne{
+    background-color: white;
+    margin: 50px;
+    border-radius: 50%;
+}

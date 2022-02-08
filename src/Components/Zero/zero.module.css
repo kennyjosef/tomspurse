@@ -1,0 +1,79 @@
+
+ .general{
+     margin-top: 50px;
+     margin-bottom: 100px;
+ }
+ h2{
+     text-align: center;
+     color: #022B69;
+     font-size: 36px;
+ }
+ .p{
+     text-align: center;
+     color: #3D3D46;
+     font-size: 14px;
+
+ }
+ .overall{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+    .group{
+    margin-top: 20px;
+} 
+.item_1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(157.9deg, #022B69 37.56%, #0066F5 106.92%);
+    width: 25%;
+    border: solid 1px whitesmoke;
+    padding-bottom: 40px;
+}
+.item_2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+    width: 25%;
+    border: solid 1px whitesmoke;
+    padding-bottom: 40px;
+}
+.item_3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+    width: 25%;
+    border: solid 1px whitesmoke;
+    padding-bottom: 40px;
+}
+.item_1 h3{
+    color: #FFFFFF;
+    text-align: center;
+}
+.p1{
+    margin:20px;
+    color: #022B69;
+}
+.p2{
+    margin:20px;
+    color: #FFFFFF;
+}
+
+.item_2 h3{
+    color: #022B69;
+    text-align: center;
+}
+.item_3 h3{
+    color: #022B69;
+    text-align: center;
+}
